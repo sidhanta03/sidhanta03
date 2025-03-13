@@ -9,9 +9,9 @@ Passionate about backend development, I'm diving deep into building APIs, optimi
 
 ## 🛠 What I Do  
 
-🖥️ **Backend Engineering**– Designing robust, scalable, and high-performance systems.
-🌐 **Frontend Development** – Exploring UI/UX to enhance full-stack proficiency.
-☁️ **Cloud & DevOps** – Learning AWS, Docker, and modern cloud solutions.
+🖥️ **Backend Engineering**– Designing robust, scalable, and high-performance systems.  
+🌐 **Frontend Development** – Exploring UI/UX to enhance full-stack proficiency.  
+☁️ **Cloud & DevOps** – Learning AWS, Docker, and modern cloud solutions.  
 🚀 **Continuous Growth** – Always upgrading my skills and staying ahead of the curve.  
 
 ---
