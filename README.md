@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🚀 Hey, I'm Sidhanta!  
-### 🧑‍💻 Backend Developer | API Architect | Database Whisperer 
+### 🧑‍💻 Software Engineer | Backend Developer | API Architect | Database Whisperer 
 
 Passionate about backend development, I'm diving deep into building APIs, optimizing databases, and understanding how things work behind the scenes. Every day is a step closer to mastering the magic of backend systems! 🚀
 
@@ -9,10 +9,10 @@ Passionate about backend development, I'm diving deep into building APIs, optimi
 
 ## 🛠 What I Do  
 
-🖥️ **Build Scalable Backends** – APIs so smooth they practically glide.  
-🔗 **Design REST & GraphQL APIs** – Because data should flow like poetry.  
-💾 **Optimize Databases** – PostgreSQL, MongoDB, Redis—you name it!  
-⚡ **Speed Up Performance** – Making apps faster than your morning coffee kicks in.  
+🖥️ **Backend Engineering**– Designing robust, scalable, and high-performance systems.
+🌐 **Frontend Development** – Exploring UI/UX to enhance full-stack proficiency.
+☁️ **Cloud & DevOps** – Learning AWS, Docker, and modern cloud solutions.
+🚀 **Continuous Growth** – Always upgrading my skills and staying ahead of the curve.  
 
 ---
 
